@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(57.png) no-repeat;
+    background-position: center;
+    backdrop-filter: blur(20px);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
